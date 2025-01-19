@@ -1,0 +1,8 @@
+
+upython:S1481C"+Replace the unused loop index "i" with "_".(ÊÛøúùÿÿÿÿ8‰ç™ûÇ2J$b9f56436-f756-4be0-8c1c-40d6db09e708
+vpython:S1481`",Remove the unused local variable "num_skip".(ÏŒƒ§ıÿÿÿÿ8ÆûûÇ2J$16b3a126-8741-4fde-9807-024b79d6bbc5
+™python:S3776"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¹§”Ø8‰ç™ûÇ2J$5b862ce8-cc14-4bb5-a37e-4fb722f63407
+python:S57545"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8‰ç™ûÇ2J$1f7cb30a-c5eb-4ef6-b6a7-cb052666825d
+hpython:S125E"Remove this commented out code.(ñÎş¸úÿÿÿÿ8æ‚¹ûÇ2J$60c274f0-1c8c-4ae9-8a67-d56530685a46
+cpython:S125U"Remove this commented out code.(Â´âù8Ÿ¼ûûÇ2J$9e58cfdb-58f9-4bfd-b972-e892b884b249
+python:S5754d"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8‰ç™ûÇ2J$60a32896-5214-49d1-adeb-4fb74f5ca3c1
