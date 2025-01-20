@@ -52,6 +52,3 @@ def login(name, password):
         print(f"Lỗi xảy ra: {e}")
 
 
-# quynhptnss181190
-# nhanmtss181195
-login("datlxthe180538@fpt.edu.vn", "datthoi30012004@@")
